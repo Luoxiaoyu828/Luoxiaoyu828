@@ -1,5 +1,5 @@
 ### Hi, I'm Luoxy 👋
-- 👀 I’m interested in Anomaly detection in multiivariate Time Series Data
+- 👀 I’m interested in Anomaly detection in multiivariate Time Series Data, and Molecular Clump Extraction Algorithm.
 - 🌱 I’m currently learning Transformer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vastlxy@163.com
